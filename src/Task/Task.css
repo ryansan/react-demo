@@ -1,0 +1,6 @@
+.Task{
+    float: left;
+    height: 200px;
+    width: 25%;
+    border: 2px solid black;
+}
